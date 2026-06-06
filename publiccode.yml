@@ -13,7 +13,7 @@ categories:
   - data-visualization
 organisation:
   name: PagoPA S.p.A.
-  uri: https://www.pagopa.gov.it/
+  uri: urn:x-italian-pa:5n2tr557
 developmentStatus: stable
 softwareType: standalone/web
 intendedAudience:
